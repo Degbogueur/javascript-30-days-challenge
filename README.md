@@ -34,7 +34,7 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 
 ## ✅ Progress Tracker
 
-- [ ] Day 01: Variables & Data Types
+- [x] Day 01: Variables & Data Types
 - [ ] Day 02: Operators & Expressions
 - [ ] Day 03: Conditionals
 - [ ] Day 04: Loops
