@@ -37,7 +37,7 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 01: Variables & Data Types
 - [x] Day 02: Operators & Expressions
 - [x] Day 03: Conditionals
-- [ ] Day 04: Loops
+- [x] Day 04: Loops
 - [ ] Day 05: Number Guessing Game 
 - ...  
 - [ ] Day 30: Capstone Project
