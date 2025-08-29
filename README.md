@@ -38,6 +38,6 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 02: Operators & Expressions
 - [x] Day 03: Conditionals
 - [x] Day 04: Loops
-- [ ] Day 05: Number Guessing Game 
+- [x] Day 05: Number Guessing Game 
 - ...  
 - [ ] Day 30: Capstone Project
