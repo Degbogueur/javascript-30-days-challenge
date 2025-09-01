@@ -40,7 +40,7 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 04: Loops
 - [x] Day 05: Number Guessing Game
 - [x] Day 06: Arrays Basics
-- [ ] Day 07: Array Methods
+- [x] Day 07: Array Methods
 - [ ] Day 08: String Manipulation
 - [ ] Day 09: Array & String Combination
 - [ ] Day 10: Word Analyzer
