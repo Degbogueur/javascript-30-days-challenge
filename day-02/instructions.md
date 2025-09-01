@@ -1,9 +1,6 @@
-# Day 2 – Operators & Expressions
+## Day 2 – Operators & Expressions
 
-**Focus:** arithmetic, comparison, logical operators  
-
-## Exercises
-
+### Exercises
 1. Write an expression that adds, subtracts, multiplies, and divides two numbers.  
 2. Compare two numbers and print whether the first is greater, smaller, or equal.  
 3. Write a program that determines if a person is allowed to enter a club.

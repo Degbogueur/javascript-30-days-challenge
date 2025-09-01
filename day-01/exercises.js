@@ -1,5 +1,4 @@
 // 1
-
 const name = 'John';
 console.log(`My name is ${name}`);
 

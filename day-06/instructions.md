@@ -1,9 +1,6 @@
-# Day 6 – Arrays Basics
+## Day 6 – Arrays Basics
 
-**Focus:** create, access, update arrays
-
-## Challenge
-
+### Exercises
 1. Create an array with 5 favorite fruits and print the first and last fruit.
 2. Replace the 3rd item in the array with another fruit.
 3. Add a new fruit at the end of the array and print the updated array.
