@@ -42,7 +42,7 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 06: Arrays Basics
 - [x] Day 07: Array Methods
 - [x] Day 08: String Manipulation
-- [ ] Day 09: Array & String Combination
+- [x] Day 09: Array & String Combination
 - [ ] Day 10: Word Analyzer
 - ...  
 - [ ] Day 30: Capstone Project
