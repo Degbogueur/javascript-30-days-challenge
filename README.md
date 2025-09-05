@@ -44,5 +44,10 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 08: String Manipulation
 - [x] Day 09: Array & String Combination
 - [x] Day 10: Word Analyzer
+- [x] Day 11: Functions Basics
+- [x] Day 12: Function Expressions & Arrow Functions
+- [x] Day 13: Scope & Closures
+- [x] Day 14: Recursion
+- [x] Day 15: Math Toolkit
 - ...  
 - [ ] Day 30: Capstone Project
