@@ -46,8 +46,8 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 10: Word Analyzer
 - [x] Day 11: Functions Basics
 - [x] Day 12: Function Expressions & Arrow Functions
-- [x] Day 13: Scope & Closures
-- [x] Day 14: Recursion
-- [x] Day 15: Math Toolkit
+- [ ] Day 13: Scope & Closures
+- [ ] Day 14: Recursion
+- [ ] Day 15: Math Toolkit
 - ...  
 - [ ] Day 30: Capstone Project
