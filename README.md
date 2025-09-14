@@ -53,6 +53,6 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 17: Nested Objects & Methods
 - [x] Day 18: ES6: Destructuring & Spread/Rest
 - [x] Day 19: Classes & Inheritance
-- [ ] Day 20: Library System
+- [x] Day 20: Library System
 - ...  
 - [ ] Day 30: Capstone Project
