@@ -54,5 +54,10 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 18: ES6: Destructuring & Spread/Rest
 - [x] Day 19: Classes & Inheritance
 - [x] Day 20: Library System
-- ...  
+- [x] Day 21: Higher-Order Functions
+- [ ] Day 22: forEach & Callback Functions
+- [ ] Day 23: Promises
+- [ ] Day 24: Async/Await
+- [ ] Day 25: Fake API Fetcher
+- ...
 - [ ] Day 30: Capstone Project
