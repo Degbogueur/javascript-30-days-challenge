@@ -57,7 +57,7 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 21: Higher-Order Functions
 - [x] Day 22: forEach & Callback Functions
 - [x] Day 23: Promises
-- [ ] Day 24: Async/Await
+- [x] Day 24: Async/Await
 - [ ] Day 25: Fake API Fetcher
 - ...
 - [ ] Day 30: Capstone Project
