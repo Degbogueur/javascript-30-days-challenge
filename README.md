@@ -59,5 +59,8 @@ By the end of the 30 days, I’ll have solved dozens of problems and built small
 - [x] Day 23: Promises
 - [x] Day 24: Async/Await
 - [x] Day 25: Fake API Fetcher
-- ...
-- [ ] Day 30: Capstone Project
+- [x] Day 26: To-Do List
+- [ ] Day 27: Calculator
+- [ ] Day 28: Quiz Game
+- [ ] Day 29: Weather App
+- [ ] Day 30: Mini E-Commerce Cart
